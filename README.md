@@ -46,12 +46,8 @@
   <br/>
   <br/>
 
-<a href="https://tarnished.my.id">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=26&duration=6000&pause=2000&color=666666&center=true&vCenter=true&width=420&height=50&lines=EX+NIHILO+NIHIL+FIT" 
-    alt="Signature"
-  />
-</a>
-
+  <a href="https://tarnished.my.id">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Metamorphous&weight=400&size=26&duration=3000&pause=1000&color=606060&background=00000000&center=true&vCenter=true&width=500&height=50&lines=Ex+Nihilo+Nihil+Fit" alt="Footer" />
+  </a>
 
 </div>
