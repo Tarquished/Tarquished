@@ -46,9 +46,8 @@
   <br/>
   <br/>
 
-<!-- Replace just the signature link in your current README code -->
-<a href="https://tarnished.my.id">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cardo&weight=400&size=28&duration=4000&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=400&height=50&lines=Ex+Nihilo+Nihil+Fit" alt="Signature" />
-</a>
+  <a href="https://tarnished.my.id">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&weight=400&size=24&duration=4000&pause=1000&color=666666&background=00000000&center=true&vCenter=true&width=500&height=40&lines=Ex+Nihilo+Nihil+Fit" alt="Footer" />
+  </a>
 
 </div>
