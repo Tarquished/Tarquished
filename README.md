@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://tarnished.my.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=38&duration=4000&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=600&lines=COGITO+ERGO+SUM;THE+FLAWED+COGITO;LOGIC+%2F%2F+VOID+%2F%2F+STRUCTURE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=50&duration=3500&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=600&height=100&lines=COGITO+ERGO+SUM;TARQUISHED" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -31,7 +31,7 @@
   <h3>— ARSENAL —</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,lua,py,html,css,git,linux,vscode&perline=8&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c,vscode&theme=dark" />
     </a>
   </p>
 
