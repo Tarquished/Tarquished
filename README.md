@@ -7,7 +7,8 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <h3 align="left" style="color: #D4AF37;">// IDENTITY_STRUCT</h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=18&color=D4AF37&lines=Identity_Struct&width=200" height="30" />
+      <br>
       <pre>
 struct User {
   char  name[]   = "Tarquished";
@@ -22,16 +23,22 @@ struct User {
       </pre>
       <br>
       <p align="left">
-        <a href="https://tarnished.my.id" style="color: #D4AF37; text-decoration: none;">[ WEBSITE ]</a> &nbsp; 
-        <a href="mailto:emailmu@gmail.com" style="color: #D4AF37; text-decoration: none;">[ SIGNAL ]</a> &nbsp;
-        <a href="https://github.com/Tarquished" style="color: #D4AF37; text-decoration: none;">[ REPO ]</a>
+        <a href="https://tarnished.my.id">
+            <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=D4AF37" height="25" />
+        </a>
+        <a href="mailto:emailmu@gmail.com">
+            <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" height="25" />
+        </a>
       </p>
     </td>
 
-    <td width="5%"></td>
+    <td width="5%" style="border: none;"></td>
 
     <td width="45%" valign="top" style="border: none;">
-      <h3 align="right" style="color: #D4AF37;">// ARSENAL</h3>
+      <div align="right">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=18&color=D4AF37&lines=Arsenal&width=100" height="30" />
+      </div>
+      
       <div align="right">
         <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=D4AF37" />
         <img src="https://img.shields.io/badge/Lua-000000?style=flat-square&logo=lua&logoColor=D4AF37" />
@@ -49,13 +56,11 @@ struct User {
       </div>
     </td>
   </tr>
-</table>
-
-<br>
+</table> <br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <p style="font-size: 10px; color: #333;">RUNTIME: 24/7 // SYSTEM: STABLE</p>
+  <p>RUNTIME: 24/7 // SYSTEM: STABLE</p>
 </div>
 
 <div align="center">
