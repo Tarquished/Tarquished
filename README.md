@@ -46,8 +46,17 @@
   <br/>
   <br/>
 
-  <a href="https://tarnished.my.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&weight=400&size=24&duration=4000&pause=1000&color=666666&background=00000000&center=true&vCenter=true&width=500&height=40&lines=Ex+Nihilo+Nihil+Fit" alt="Footer" />
-  </a>
+<p align="center"
+   style="
+     color:#6b5a2e;
+     font-family: 'Cinzel', serif;
+     letter-spacing: 4px;
+     font-size: 13px;
+     margin-top: 20px;
+     opacity: 0.85;
+   ">
+  EX NIHILO NIHIL FIT
+</p>
+
 
 </div>
