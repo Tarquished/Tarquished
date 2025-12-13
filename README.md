@@ -1,22 +1,8 @@
 <div align="center">
 
   <a href="https://tarnished.my.id">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?
-      font=Cinzel+Decorative
-      &weight=700
-      &size=52
-      &duration=4200
-      &pause=1600
-      &color=D4AF37
-      &background=00000000
-      &center=true
-      &vCenter=true
-      &width=680
-      &height=110
-      &lines=COGITO+ERGO+SUM;TARQUISHED"
-      alt="Typing SVG"
-    />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=48&duration=5000&pause=2000&color=D4AF37&center=true&vCenter=true&width=600&lines=COGITO+ERGO+SUM;TARQUISHED" />
+
   </a>
 
   <img 
