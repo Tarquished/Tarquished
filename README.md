@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://tarnished.my.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=40&duration=1&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=600&height=80&lines=TARQUISHED" alt="Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=40&duration=3000&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=600&height=80&lines=TARQUISHED" alt="Title" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" height="1px" />
