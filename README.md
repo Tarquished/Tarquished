@@ -46,6 +46,8 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&weight=400&size=20&duration=1&pause=1000&color=555555&background=00000000&center=true&vCenter=true&width=400&height=30&lines=Ex+Nihilo+Nihil+Fit" alt="Ex Nihilo Nihil Fit" />
+  <p style="font-family: serif; font-size: 11px; letter-spacing: 8px; color: #444444; text-transform: uppercase; margin-top: 20px;">
+    EX &nbsp; NIHILO &nbsp; NIHIL &nbsp; FIT
+  </p>
 
 </div>
