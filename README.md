@@ -1,7 +1,21 @@
 <div align="center">
 
   <a href="https://tarnished.my.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=50&duration=3500&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=600&height=100&lines=COGITO+ERGO+SUM;TARQUISHED" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?
+      font=Cinzel
+      &weight=600
+      &size=40
+      &duration=3500
+      &pause=1200
+      &color=D4AF37
+      &background=00000000
+      &center=true
+      &vCenter=true
+      &width=520
+      &lines=COGITO+ERGO+SUM;TARQUISHED"
+      alt="Typing SVG"
+    />
   </a>
 
   <br/>
@@ -31,7 +45,7 @@
   <h3>— ARSENAL —</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,vscode&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c,vscode&perline=4&theme=dark" />
     </a>
   </p>
 
