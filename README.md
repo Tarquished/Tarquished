@@ -13,14 +13,20 @@
   <br/><br/>
 
   <!-- ═══════════════════════════════════════ -->
-  <!--  WANDERERS — WORLD MAP COUNTER        -->
+  <!--  WANDERERS — ORNATE COUNTER           -->
   <!-- ═══════════════════════════════════════ -->
   
-  <a href="https://github.com/Tarquished">
-    <img src="https://github-visitor-counter-tau.vercel.app/api/user?username=Tarquished&theme=dark&font=Cinzel+Decorative" alt="World Wanderers" />
-  </a>
+  <p style="color: #555555; font-family: monospace; font-size: 11px; letter-spacing: 3px; margin-bottom: 4px;">
+    ──── ✦ ────
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Tarquished&label=WANDERERS&color=D4AF37&style=for-the-badge&base=1000" alt="Wanderers" />
+  
+  <p style="color: #555555; font-family: monospace; font-size: 11px; letter-spacing: 3px; margin-top: 4px;">
+    ──── ✦ ────
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <!-- ═══════════════════════════════════════ -->
   <!--  SOCIAL LINKS                         -->
