@@ -13,10 +13,12 @@
   <br/><br/>
 
   <!-- ═══════════════════════════════════════ -->
-  <!--  WANDERERS — ELEGANT COUNTER          -->
+  <!--  WANDERERS — WORLD MAP COUNTER        -->
   <!-- ═══════════════════════════════════════ -->
   
-  <img src="https://komarev.com/ghpvc/?username=Tarquished&label=✦+WANDERERS+WHO+PASSED+✦&color=D4AF37&style=for-the-badge&base=1000" alt="Wanderers Counter" />
+  <a href="https://github.com/Tarquished">
+    <img src="https://github-visitor-counter-tau.vercel.app/api/user?username=Tarquished&theme=dark&font=Cinzel+Decorative" alt="World Wanderers" />
+  </a>
 
   <br/><br/>
 
