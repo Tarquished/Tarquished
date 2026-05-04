@@ -10,10 +10,10 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" height="1px" />
 
-  <br/>
+  <br/><br/>
 
   <!-- ═══════════════════════════════════════ -->
-  <!--  WANDERERS COUNTER — STYLED           -->
+  <!--  WANDERERS — ELEGANT COUNTER          -->
   <!-- ═══════════════════════════════════════ -->
   
   <img src="https://komarev.com/ghpvc/?username=Tarquished&label=✦+WANDERERS+WHO+PASSED+✦&color=D4AF37&style=for-the-badge&base=1000" alt="Wanderers Counter" />
